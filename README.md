@@ -3,7 +3,7 @@
 
 
 ## Descrição do código
-Este repositório contém o código fonte de uma API desenvolvida em ASP.Net utilizando o Entity Framework e o banco de dados SQL Server para gerenciamento de usuários e tarefas.
+Projeto API desenvolvido em ASP.Net utilizando o Entity Framework e o banco de dados SQL Server para gerenciamento de usuários e tarefas.
 
 A API permite que os usuários criem, atualizem, listem e removam usuários e tarefas. Cada tarefa pode ser ligada a um usuário.
 
